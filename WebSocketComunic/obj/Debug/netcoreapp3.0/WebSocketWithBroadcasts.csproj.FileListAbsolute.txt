@@ -1,0 +1,11 @@
+C:\Users\Jéssica\Desktop\WebSocketExample-master\WebSocketExample-master\WebSocketWithBroadcasts\bin\Debug\netcoreapp3.0\WebSocketWithBroadcasts.exe
+C:\Users\Jéssica\Desktop\WebSocketExample-master\WebSocketExample-master\WebSocketWithBroadcasts\bin\Debug\netcoreapp3.0\WebSocketWithBroadcasts.deps.json
+C:\Users\Jéssica\Desktop\WebSocketExample-master\WebSocketExample-master\WebSocketWithBroadcasts\bin\Debug\netcoreapp3.0\WebSocketWithBroadcasts.runtimeconfig.json
+C:\Users\Jéssica\Desktop\WebSocketExample-master\WebSocketExample-master\WebSocketWithBroadcasts\bin\Debug\netcoreapp3.0\WebSocketWithBroadcasts.runtimeconfig.dev.json
+C:\Users\Jéssica\Desktop\WebSocketExample-master\WebSocketExample-master\WebSocketWithBroadcasts\bin\Debug\netcoreapp3.0\WebSocketWithBroadcasts.dll
+C:\Users\Jéssica\Desktop\WebSocketExample-master\WebSocketExample-master\WebSocketWithBroadcasts\bin\Debug\netcoreapp3.0\WebSocketWithBroadcasts.pdb
+C:\Users\Jéssica\Desktop\WebSocketExample-master\WebSocketExample-master\WebSocketWithBroadcasts\obj\Debug\netcoreapp3.0\WebSocketWithBroadcasts.AssemblyInfoInputs.cache
+C:\Users\Jéssica\Desktop\WebSocketExample-master\WebSocketExample-master\WebSocketWithBroadcasts\obj\Debug\netcoreapp3.0\WebSocketWithBroadcasts.AssemblyInfo.cs
+C:\Users\Jéssica\Desktop\WebSocketExample-master\WebSocketExample-master\WebSocketWithBroadcasts\obj\Debug\netcoreapp3.0\WebSocketWithBroadcasts.dll
+C:\Users\Jéssica\Desktop\WebSocketExample-master\WebSocketExample-master\WebSocketWithBroadcasts\obj\Debug\netcoreapp3.0\WebSocketWithBroadcasts.pdb
+C:\Users\Jéssica\Desktop\WebSocketExample-master\WebSocketExample-master\WebSocketWithBroadcasts\obj\Debug\netcoreapp3.0\WebSocketWithBroadcasts.csprojAssemblyReference.cache
